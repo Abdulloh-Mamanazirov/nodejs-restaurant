@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name": "Evos",
+        "branches": [
+            "Chilonzor",
+            "Olmazor"
+        ],
+        "time": {
+            "start": "07:00",
+            "end": "19:00"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Oq tepa",
+        "branches": [
+            "Yunusobod",
+            "Chilonzor",
+            "Shayxontohur"
+        ],
+        "time": {
+            "start": "06:00",
+            "end": "21:00"
+        }
+    },
+    {
+        "id": "ae064dfa-9c12-4704-8513-9fc6fd39612a",
+        "name": "KFC",
+        "branches": [
+            "Chicago",
+            "New York"
+        ],
+        "time": {
+            "start": "01:00",
+            "end": "12:00"
+        }
+    }
+]

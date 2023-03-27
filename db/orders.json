@@ -1,0 +1,64 @@
+[
+    {
+        "name": "John",
+        "phone": "+998949813606",
+        "restaurant": "Evos",
+        "branch": "Olmazor",
+        "order": "Palov",
+        "time": "3/27/2023 2:37:36 PM"
+    },
+    {
+        "id": "8d082511-5eec-48a4-9d04-9bc1626eca6d",
+        "name": "Abdulloh",
+        "phone": "+998949813606",
+        "restaurant": "1",
+        "branch": "Olmazor",
+        "order": "Kabob",
+        "time": "3/27/2023, 2:41:15 PM"
+    },
+    {
+        "id": "1aee29c5-1cb1-4e87-ad9c-330bff85c0b6",
+        "name": "Abdulloh",
+        "phone": "+998949813606",
+        "restaurant": "1",
+        "branch": "Olmazor",
+        "order": "Palov",
+        "time": "3/27/2023, 2:42:53 PM"
+    },
+    {
+        "id": "259ecd83-a6cb-4feb-9a94-c9235fd193ea",
+        "name": "Abdulloh",
+        "phone": "+998910062525",
+        "restaurant": "ae064dfa-9c12-4704-8513-9fc6fd39612a",
+        "branch": "New York",
+        "order": "Gamburger",
+        "time": "3/27/2023, 2:47:27 PM"
+    },
+    {
+        "id": "9c9e10d0-218c-403b-9c86-edf3387386df",
+        "name": "Abdulloh",
+        "phone": "+998910062525",
+        "restaurant": "ae064dfa-9c12-4704-8513-9fc6fd39612a",
+        "branch": "Chicago",
+        "order": "Kartoshka Fri",
+        "time": "3/27/2023, 3:07:35 PM"
+    },
+    {
+        "id": "8205159b-7591-46d3-a59a-2686b9fb7501",
+        "name": "Tom",
+        "phone": "+998 93 256 25 25",
+        "restaurant": "2",
+        "branch": "Chilonzor",
+        "order": "Sho'rva",
+        "time": "3/27/2023, 3:08:02 PM"
+    },
+    {
+        "id": "cdfa5eaf-4896-4b8e-9d8a-a6f30d95712a",
+        "name": "hi",
+        "phone": "+998 99 929 49 59",
+        "restaurant": "2",
+        "branch": "Yunusobod",
+        "order": "Xalim",
+        "time": "3/27/2023, 3:08:52 PM"
+    }
+]
