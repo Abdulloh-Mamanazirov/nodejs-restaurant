@@ -40,7 +40,7 @@ const orderMeal = (req, res) =>{
         restaurant,
         branch,
         order,
-        time : new Date().toLocaleString(),
+        time : [new Date().getDate(),"/", new Date().getMonth()+1,"/", new Date().getFullYear(),",", new Date().getHours(),":",new Date().getMinutes()].join(""),
     })
 
     writeFile("orders.json", orders)
